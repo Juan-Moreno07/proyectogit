@@ -1,3 +1,4 @@
+
 body {
     margin: 0;
     padding: 0;
@@ -107,4 +108,4 @@ input[type="submit"]:hover{
 }
 .registrarse a:hover{
     text-decoration: underline;
-}
+
